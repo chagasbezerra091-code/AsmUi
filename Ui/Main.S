@@ -162,8 +162,9 @@ call 3D_ZXY
 call 3D_SCAN_ALL_PINS
 call 3D_SCAN_OBJ
 APPS:
-com.asmui.youtube
-com.asmui.settings
-com.asmui.play.store
-com.asmui.automation
-com.asmui.safety.core
+;-----------------;APP NAME
+;com.asmui.youtube;YouTube
+;com.asmui.settings;AsmUi Settings
+;com.asmui.play.store;Play Store
+;com.asmui.automation;AsmUi automation
+;com.asmui.safety.core;AsmUi SafeTy Core
