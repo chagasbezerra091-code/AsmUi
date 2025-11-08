@@ -1,0 +1,30 @@
+draw_window:    
+    mov ax, titulo    
+    call draw_rect    
+    call draw_border    
+    call draw_shadow    
+    call draw_text    
+    call window_manager    
+    call window_y    
+    call window_x    
+    call window_z    
+    call window_name    
+    call window_exit_button  
+    call window_pixels_y  
+    call window_pixels_x  
+    call window_pixels_z  
+    call window_pixels_yx  
+    call window_pixels_xz  
+    call window_pixels_position  
+    call window_pixels_yxzyxxz  
+    call window_pixels_pixels  
+    call window_pixels_frames  
+    call window_pixels_anima  
+    call window_pixels_pixel  
+    call window_pixels_win  
+    call window_pixels_window  
+    call window_pixels_mm  
+    call window_pixels_rect  
+    call window_pixels_ui  
+    call window_pixels_manifes  
+    call window_pixels_yxz
