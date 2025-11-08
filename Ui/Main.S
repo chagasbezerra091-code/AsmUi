@@ -161,3 +161,9 @@ call 3D_TRANSFORM_YXZ_IN_XY
 call 3D_ZXY
 call 3D_SCAN_ALL_PINS
 call 3D_SCAN_OBJ
+APPS:
+com.asmui.youtube
+com.asmui.settings
+com.asmui.play.store
+com.asmui.automation
+com.asmui.safety.core
