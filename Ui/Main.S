@@ -101,3 +101,8 @@ call NO_COMAND_PRINT_TEXT_COLOR_RED_NO_COMMAND
 call NO_COMAND_PRINT_TEXT_COLOR_WHITE_ECO_NO_COMMAND
 call NO_COMAND_PRINT_REBOOT
 call NO_COMAND_PRINT_AGUARD_KEYS_EXIT_POWER_VOL_DOWN
+    call draw_icon_from_address
+    call set_color
+    call draw_main_message
+    call draw_instruction_message
+    call wait_for_keys_from_address
